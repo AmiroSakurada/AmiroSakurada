@@ -16,8 +16,17 @@
 ### 😄 Pronouns:  
 [Your pronouns: he/him]
 
-### ⚡ Fun fact:  
-** "I love joining coding bootcamps and training sessions – the grind never stops! 🚀" **
+### ⚡ As a fun fact:
+[I'm developing a Castlevania-inspired game set in modern Japan!]
+
+🎮 As a project highlight:
+[Currently crafting a Metroidvania adventure blending modern Japanese aesthetics with classic whip-cracking action]
+
+🕹️ Technical version:
+[Dev Fact: Building a Castlevania-like in Godot with procedural level generation and yokai-inspired enemies]
+
+⚔️ Humorous take:
+["Saving Tokyo from yokai, one line of code at a time" – Developing my own Eastern-flavored Castlevania]
 <!---
 AmiroSakurada/AmiroSakurada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
