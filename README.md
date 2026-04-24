@@ -1,4 +1,4 @@
-# Olá, eu sou o Jorge! 👋
+# Olá, eu sou o Sakurada! 👋
 
 ### 🚀 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
@@ -46,5 +46,8 @@ Focado em transformar ideias em interfaces funcionais e intuitivas. Atualmente, 
 <p align="left">
   <a href="https://www.linkedin.com/in/jorge-sakurada-14b67637a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amirosakurada@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
