@@ -1,33 +1,48 @@
-- # 👋 Hi, I’m Amiro Sakurada!
+# Olá, eu sou o Jorge! 👋
 
-### 👀 I’m interested in...
-[Briefly list your interests: AI, web development, game design, open-source projects,backend]
+### 🚀 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-### 🌱 I’m currently learning...
-[What skills/technologies you're learning: Java, Godot, HTML5, CSS3, React, Javascrip]
+Focado em transformar ideias em interfaces funcionais e intuitivas. Atualmente, aplico meus conhecimentos em desenvolvimento de sistemas e design em projetos práticos, sempre prezando pela organização e segurança da informação.
 
-### 💞️ I’m looking to collaborate on...
-[Types of projects you'd like to collaborate on: open-source, creative coding, research, game]
+---
 
-### 📫 How to reach me...
-[Your contact info - email, LinkedIn, Twitter, etc.]  
-🔗 (amirosakurada@gmail.com)  
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
+</p>
 
-### 😄 Pronouns:  
-[Your pronouns: he/him]
+---
 
-### ⚡ As a fun fact:
-[I'm developing a Castlevania-inspired game set in modern Japan!]
+### 🎓 Formação e Certificações
 
-### 🎮 As a project highlight:
-[Currently crafting a Metroidvania adventure blending modern Japanese aesthetics with classic whip-cracking action]
+- 🏫 **Análise e Desenvolvimento de Sistemas** (3º Semestre)
+- 📜 **Bootcamp Java** | **Git & GitHub** | **Salesforce**
+- 📜 **Segurança da Informação** | **Inteligência Artificial**
+- 📜 **Bases Numéricas** | **Técnico em Agropecuária**
 
-### 🕹️ Technical version:
-[Dev Fact: Building a Castlevania-like in Godot with procedural level generation and yokai-inspired enemies]
+---
 
-### ⚔️ Humorous take:
-["Saving Tokyo from yokai, one line of code at a time" – Developing my own Eastern-flavored Castlevania]
-<!---
-AmiroSakurada/AmiroSakurada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📊 Estatísticas
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiroSakurada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiroSakurada&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 🏛️ Atuação e Liderança
+- **Presidente do Seinenkai de Taperoá:** Gestão de equipes e organização de eventos comunitários.
+
+---
+
+### 📫 Contato
+<p align="left">
+  <a href="https://www.linkedin.com/in/jorge-sakurada-14b67637a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
