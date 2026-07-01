@@ -43,6 +43,17 @@ Acredito que **código limpo, usabilidade, agentes autônomos e compartilhamento
 
 ## 💼 Experiência Profissional
 
+### 🚀 Co-fundador & Desenvolvedor
+**CodAura** | 2025 – Atualmente
+
+- **fetchvid**: Plataforma gratuita de download de vídeos e conversão de arquivos, desenvolvida em JavaScript.
+- Liderança técnica no desenvolvimento full-stack, arquitetura de sistemas e experiência do usuário.
+- Gestão de versionamento e organização do código no GitHub.
+
+[🔗 Ver organização no GitHub](https://github.com/CodAura)
+
+---
+
 ### 🚀 Desenvolvedor Front-end & UI/UX Designer
 **Startup AuraCod** | Mai/2026 – Atualmente
 
@@ -65,6 +76,18 @@ Acredito que **código limpo, usabilidade, agentes autônomos e compartilhamento
 
 ---
 
+### 📹 fetchvid – Plataforma de Download e Conversão de Vídeos
+
+| Fase | Descrição |
+|---|---|
+| **🔴 O Problema** | Ferramentas de download e conversão de vídeos são pagas, cheias de anúncios ou limitadas. |
+| **🟢 A Solução** | Desenvolvi uma **plataforma gratuita** em JavaScript para download e conversão de arquivos de vídeo, com foco em simplicidade e performance. |
+| **📊 O Resultado** | ✅ Projeto público e ativo no GitHub da **CodAura** (minha startup). Disponível para a comunidade. |
+
+[🔗 Ver repositório](https://github.com/CodAura/fetchvid)
+
+---
+
 ### 🧠 Automação Inteligente de Workflows (n8n + Machine Learning)
 
 | Fase | Descrição |
@@ -73,7 +96,8 @@ Acredito que **código limpo, usabilidade, agentes autônomos e compartilhamento
 | **🟢 A Solução** | Desenhei e engenhei pipelines de dados automatizados integrando a plataforma **n8n** a modelos de linguagem (**LLMs**). Criei um **agente autônomo** com recursos de web scraping focado em triagem inteligente de vagas e recomendação de cursos personalizados. |
 | **📊 O Resultado** | ✅ Redução de **30%** do tempo gasto em pesquisas manuais, permitindo foco em atividades de maior valor agregado. |
 
-[🔗 Ver repositório](link-do-projeto) | [📝 Ler artigo no Medium](link-do-artigo)
+🔗 **Repositório:** *em breve*  
+📝 **Artigo no Medium:** *em breve*
 
 ---
 
@@ -85,7 +109,8 @@ Acredito que **código limpo, usabilidade, agentes autônomos e compartilhamento
 | **🟢 A Solução** | Projeto ponta a ponta focado em **manipulação do DOM** e **otimização de renderização gráfica** no ambiente front-end, aplicando conceitos de clean code e arquitetura de sistemas web. |
 | **📊 O Resultado** | ✅ Jogo funcional, responsivo e com performance otimizada, servindo como base para estudos mais avançados em desenvolvimento de interfaces interativas. |
 
-[🔗 Ver repositório](link-do-projeto) | [▶️ Jogar online](link-do-deploy)
+🔗 **Repositório:** *em breve*  
+▶️ **Jogar online:** *em breve*
 
 ---
 
@@ -119,7 +144,7 @@ Acredito que **compartilhar conhecimento é tão importante quanto adquiri-lo**.
 | **🟢 A Investigação** | Pesquisa de campo com **30 respondentes** + revisão bibliográfica sistemática, aplicando a **Teoria da Resistência à Inovação (IRT)** para mapear barreiras de uso e de risco. |
 | **📊 Os Resultados** | ✅ **46,7%** dos usuários só resolvem problemas com atendimento humano. <br> ✅ **63,3%** veem chatbots como **barreiras burocráticas**, não facilitadores. <br> ✅ **60%** demonstram desconforto em fornecer dados pessoais a chatbots. <br> ✅ Conclusão: automação de baixa qualidade gera **exclusão digital** e **dano à imagem da marca**. |
 
-[📄 Ler o artigo completo](link-para-o-pdf-ou-repositorio)
+📄 **Artigo completo:** *em breve no GitHub/Medium*
 
 ---
 
@@ -180,10 +205,17 @@ Para me manter atualizado e criar conteúdo relevante, consumo conhecimento de d
 
 ## 📊 Estatísticas do GitHub
 
+<!-- As imagens abaixo podem demorar um pouco para carregar. Se não aparecerem, pode ser que você precise ativar as estatísticas públicas nas configurações do seu perfil. -->
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiroSakurada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiroSakurada&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiroSakurada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiroSakurada&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
+
+**🔧 Se as imagens não carregarem:**
+1. Verifique se seu perfil está **público**.
+2. Acesse [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) para mais informações.
+3. Caso ainda não funcione, você pode substituir por badges manuais (ex: número de repositórios, seguidores).
 
 ---
 
