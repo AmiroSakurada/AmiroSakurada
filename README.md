@@ -1,12 +1,14 @@
 # 👋 Olá, eu sou o Jorge Sakurada (AmiroSakurada)!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=false&vCenter=true&width=1000&lines=Front-end+%26+UI%2FUX+Designer;Automação+com+IA+%26+n8n;Pesquisador+acadêmico+em+IA;Compartilho+conhecimento+em+artigos+e+posts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=false&vCenter=true&width=1000&lines=Front-end+%26+UI%2FUX+Designer;Co-fundador+da+CodAura;Automação+com+IA+%26+n8n;Pesquisador+acadêmico+em+IA;Compartilho+conhecimento+em+artigos+e+posts)](https://git.io/typing-svg)
 
 ---
 
 ## 🧠 Quem sou eu?
 
 Sou **Desenvolvedor Front-end** e **UI/UX Designer** com experiência prática em startups, especializado em criar interfaces web de alta performance e automatizar processos com Inteligência Artificial.
+
+Sou **co-fundador da CodAura**, uma startup de tecnologia onde desenvolvemos soluções inovadoras para a web, como a plataforma **fetchvid** – download e conversão de vídeos gratuita.
 
 Além da atuação no mercado, tenho forte ligação com a **pesquisa acadêmica** – sou coautor de um artigo científico sobre chatbots e experiência do cliente – e com a **criação de conteúdo**, compartilhando aprendizados sobre tecnologia, carreira e otimização de perfil profissional.
 
@@ -205,17 +207,21 @@ Para me manter atualizado e criar conteúdo relevante, consumo conhecimento de d
 
 ## 📊 Estatísticas do GitHub
 
-<!-- As imagens abaixo podem demorar um pouco para carregar. Se não aparecerem, pode ser que você precise ativar as estatísticas públicas nas configurações do seu perfil. -->
+**🔧 Como as estatísticas funcionam:**  
+As imagens abaixo são geradas automaticamente pelo serviço `github-readme-stats`. Se não estiverem carregando, pode ser que você precise ativar a opção **"Include private contributions on my profile"** nas configurações do seu GitHub ou aguardar alguns segundos para o carregamento.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiroSakurada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiroSakurada&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
-**🔧 Se as imagens não carregarem:**
-1. Verifique se seu perfil está **público**.
-2. Acesse [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) para mais informações.
-3. Caso ainda não funcione, você pode substituir por badges manuais (ex: número de repositórios, seguidores).
+**Caso as imagens não carreguem**, você pode ver minhas estatísticas diretamente no meu perfil do GitHub ou usar os badges abaixo como alternativa:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Repositórios-6-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Seguidores-1-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Organização-CodAura-00BFFF?style=for-the-badge&logo=github" />
+</div>
 
 ---
 
