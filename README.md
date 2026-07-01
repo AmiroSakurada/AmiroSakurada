@@ -207,21 +207,18 @@ Para me manter atualizado e criar conteúdo relevante, consumo conhecimento de d
 
 ## 📊 Estatísticas do GitHub
 
-**🔧 Como as estatísticas funcionam:**  
-As imagens abaixo são geradas automaticamente pelo serviço `github-readme-stats`. Se não estiverem carregando, pode ser que você precise ativar a opção **"Include private contributions on my profile"** nas configurações do seu GitHub ou aguardar alguns segundos para o carregamento.
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmiroSakurada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiroSakurada&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
-</div>
-
-**Caso as imagens não carreguem**, você pode ver minhas estatísticas diretamente no meu perfil do GitHub ou usar os badges abaixo como alternativa:
-
-<div align="center">
+  
+  <!-- Badges estáticos que sempre funcionam -->
   <img src="https://img.shields.io/badge/Repositórios-6-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Seguidores-1-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Organização-CodAura-00BFFF?style=for-the-badge&logo=github" />
+  
 </div>
+
+---
+
+> **🔧 Estou migrando minhas estatísticas para uma solução mais robusta. Em breve, gráficos dinâmicos estarão disponíveis aqui!**
 
 ---
 
