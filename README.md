@@ -59,7 +59,7 @@ Acredito que **código limpo, usabilidade, agentes autônomos e compartilhamento
 
 ---
 
-### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzA4MDkwOSIvPjxwYXRoIGQ9Ik0yNCAxMCBMMTIgMzYgTDE3IDM2IEwyNCAyMiBMMzEgMzYgTDM2IDM2IFogTTE2IDMyIEwzMiAzMiBMMzEgMzYgTDE5IDM2IFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=" width="24" height="24" align="center" /> Desenvolvedor Front-end & UI/UX Designer
+### ![AuraCod](https://img.shields.io/badge/AuraCod-0F172A?style=flat-square&logoColor=white) Desenvolvedor Front-end & UI/UX Designer
 **Startup AuraCod** | Mai/2026 – Atualmente
 
 - **Plataforma de Conversão de Arquivos**: Liderança técnica no Front-end e UI/UX com Vue.js, TypeScript e Three.js. Criação de wireframes, fluxos de usuário e protótipos de alta fidelidade no Figma.
@@ -67,7 +67,7 @@ Acredito que **código limpo, usabilidade, agentes autônomos e compartilhamento
 
 ---
 
-### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzA4MDkwOSIvPjxwYXRoIGQ9Ik0yNCAxMCBMMTIgMzYgTDE3IDM2IEwyNCAyMiBMMzEgMzYgTDM2IDM2IFogTTE2IDMyIEwzMiAzMiBMMzEgMzYgTDE5IDM2IFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=" width="24" height="24" align="center" /> Desenvolvedor Front-end & UI/UX Designer
+### ![AuraCod](https://img.shields.io/badge/AuraCod-0F172A?style=flat-square&logoColor=white) Desenvolvedor Front-end & UI/UX Designer
 **Startup AuraCod** | Ago/2025 – Dez/2025
 
 - **Plataforma de Vendas (Brasil/EUA)**: Desenvolvimento de front-end escalável com internacionalização, implementando regras de negócio e conversão de moedas por geolocalização.
@@ -245,13 +245,11 @@ Estou sempre aberto a novas conexões, colaborações e oportunidades!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirosakurada@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmiroSakurada)
 
-### <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCIgd2lkdGg9IjQ4IiBoZWlnaHQ9IjQ4Ij48cmVjdCB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHJ4PSIxMCIgZmlsbD0iIzA4MDkwOSIvPjxwYXRoIGQ9Ik0yNCAxMCBMMTIgMzYgTDE3IDM2IEwyNCAyMiBMMzEgMzYgTDM2IDM2IFogTTE2IDMyIEwzMiAzMiBMMzEgMzYgTDE5IDM2IFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=" width="24" height="24" align="center" /> AuraCod
+### ![AuraCod](https://img.shields.io/badge/AuraCod-0F172A?style=flat-square&logoColor=white) AuraCod
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=557598739057)
 [![LinkedIn AuraCod](https://img.shields.io/badge/LinkedIn_AuraCod-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aura-cod-61794442b/)
 [![Instagram AuraCod](https://img.shields.io/badge/Instagram_AuraCod-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/auracod_tech/)
 [![Email AuraCod](https://img.shields.io/badge/Email_AuraCod-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@auracode.com.br)
-
-📞 **Telefone:** [+55 (75) 98739-057](https://api.whatsapp.com/send?phone=557598739057)
 
 ---
 
