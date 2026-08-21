@@ -16,14 +16,14 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Generate Galaga Contribution Graph
+      - name: Generate Donkey Kong Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'galaga'
+          games: 'donkey-kong'
 
       - name: Push SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v4.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
