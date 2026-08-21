@@ -3,7 +3,7 @@ name: Generate Arcade Contribution Graphs
 on:
   schedule:
     - cron: "0 */12 * * *" # Atualiza a cada 12 horas
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch: # Permite executar manualmente
   push:
     branches:
       - main
@@ -16,16 +16,14 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Generate Galaga Horizontal Contribution Graph
+      - name: Generate Galaga Contribution Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'galaga'
-          game_theme: 'github-dark'
-          orientation: 'horizontal' # Define o movimento vindo dos lados
 
       - name: Push SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: output
           build_dir: dist
