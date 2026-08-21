@@ -237,9 +237,15 @@ Para me manter atualizado e criar conteúdo relevante, consumo conhecimento de d
 
 Estou sempre aberto a novas conexões, colaborações e oportunidades!
 
+### 👤 Pessoal
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-sakurada-14b67637a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirosakurada@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmiroSakurada)
+
+### 🏢 AuraCod
+[![LinkedIn AuraCod](https://img.shields.io/badge/LinkedIn_AuraCod-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aura-cod-61794442b/)
+[![Instagram AuraCod](https://img.shields.io/badge/Instagram_AuraCod-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/auracod_tech/)
+[![Email AuraCod](https://img.shields.io/badge/Email_AuraCod-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@auracode.com.br)
 
 ---
 
