@@ -1,1 +1,2 @@
-
+outputs: |
+  dist/github-contribution-grid-snake-dark.svg?color_snake=#00FF66&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
