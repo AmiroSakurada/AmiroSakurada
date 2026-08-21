@@ -223,8 +223,8 @@ Para me manter atualizado e criar conteúdo relevante, consumo conhecimento de d
 
 <div align="center">
 
-  <!-- Animação da Nave Espacial (Galaga) Destruindo os Pixels de Contribuição -->
-  <img src="https://raw.githubusercontent.com/AmiroSakurada/AmiroSakurada/output/galaga-contribution-graph.svg" alt="Jogo da Nave Espacial - Contribuições" width="100%" />
+  <!-- Animação do Donkey Kong Subindo o Gráfico de Contribuições -->
+  <img src="https://raw.githubusercontent.com/AmiroSakurada/AmiroSakurada/output/donkey-kong-contribution-graph.svg" alt="Donkey Kong - Contribuições" width="100%" />
 
   <br/><br/>
 
