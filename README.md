@@ -6,7 +6,7 @@
 
 ## 🧠 Quem sou eu?
 
-Sou **Desenvolvedor Front-end** e **UI/UX Designer** com experiência prática em startups, especializado em criar interfaces web de alta performance e automatizar processos com Inteligência Artificial.
+Sou **Desenvolvedor Front-end** e **UI/UX Designer** com experiência prática em startups, especializado em criar interfaces web de alta performance, experiências 3D interativas e em automatizar processos com Inteligência Artificial.
 
 Sou **co-fundador da CodAura**, uma startup de tecnologia onde desenvolvemos soluções inovadoras para a web, como a plataforma **fetchvid** – download e conversão de vídeos gratuita.
 
@@ -26,7 +26,10 @@ Acredito que **código limpo, usabilidade, agentes autônomos e compartilhamento
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🤖 Automação & IA
@@ -56,15 +59,15 @@ Acredito que **código limpo, usabilidade, agentes autônomos e compartilhamento
 
 ---
 
-### 🚀 Desenvolvedor Front-end & UI/UX Designer
+### <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' width='22' height='22'><rect width='100' height='100' rx='20' fill='%230f172a'/><path d='M50 18 L20 80 L38 80 L50 50 L62 80 L80 80 Z M33 65 L67 65 L62 76 L38 76 Z' fill='%23ffffff'/></svg>" width="22" height="22" valign="middle" /> Desenvolvedor Front-end & UI/UX Designer
 **Startup AuraCod** | Mai/2026 – Atualmente
 
-- **Plataforma de Conversão de Arquivos**: Liderança técnica no Front-end e UI/UX. Criação de wireframes, fluxos de usuário e protótipos de alta fidelidade no Figma.
+- **Plataforma de Conversão de Arquivos**: Liderança técnica no Front-end e UI/UX com Vue.js, TypeScript e Three.js. Criação de wireframes, fluxos de usuário e protótipos de alta fidelidade no Figma.
 - Desenvolvimento de interface responsiva e mobile-first, otimizada para carregamento rápido e conversão fluida de múltiplos formatos de arquivo.
 
 ---
 
-### 🚀 Desenvolvedor Front-end & UI/UX Designer
+### <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' width='22' height='22'><rect width='100' height='100' rx='20' fill='%230f172a'/><path d='M50 18 L20 80 L38 80 L50 50 L62 80 L80 80 Z M33 65 L67 65 L62 76 L38 76 Z' fill='%23ffffff'/></svg>" width="22" height="22" valign="middle" /> Desenvolvedor Front-end & UI/UX Designer
 **Startup AuraCod** | Ago/2025 – Dez/2025
 
 - **Plataforma de Vendas (Brasil/EUA)**: Desenvolvimento de front-end escalável com internacionalização, implementando regras de negócio e conversão de moedas por geolocalização.
@@ -242,7 +245,7 @@ Estou sempre aberto a novas conexões, colaborações e oportunidades!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirosakurada@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmiroSakurada)
 
-### 🏢 AuraCod
+### <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' width='22' height='22'><rect width='100' height='100' rx='20' fill='%230f172a'/><path d='M50 18 L20 80 L38 80 L50 50 L62 80 L80 80 Z M33 65 L67 65 L62 76 L38 76 Z' fill='%23ffffff'/></svg>" width="22" height="22" valign="middle" /> AuraCod
 [![LinkedIn AuraCod](https://img.shields.io/badge/LinkedIn_AuraCod-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aura-cod-61794442b/)
 [![Instagram AuraCod](https://img.shields.io/badge/Instagram_AuraCod-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/auracod_tech/)
 [![Email AuraCod](https://img.shields.io/badge/Email_AuraCod-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@auracode.com.br)
