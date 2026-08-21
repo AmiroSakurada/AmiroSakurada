@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Jorge Sakurada (AmiroSakurada)!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=false&vCenter=true&width=1000&lines=Front-end+%26+UI%2FUX+Designer;Co-fundador+da+CodAura;Automação+com+IA+%26+n8n;Pesquisador+acadêmico+em+IA;Compartilho+conhecimento+em+artigos+e+posts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=false&vCenter=true&width=1000&lines=Front-end+%26+UI%2FUX+Designer;Co-fundador+da+CodAura;Automa%C3%A7%C3%A3o+com+IA+%26+n8n;Pesquisador+acad%C3%AAmico+em+IA;Compartilho+conhecimento+em+artigos+e+posts)](https://git.io/typing-svg)
 
 ---
 
@@ -21,7 +21,7 @@ Acredito que **código limpo, usabilidade, agentes autônomos e compartilhamento
 ## 🛠️ Competências Técnicas
 
 <div align="center">
-  
+
 ### 💻 Front-end & UI/UX
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -162,9 +162,20 @@ Acredito que **compartilhar conhecimento é tão importante quanto adquiri-lo**.
 ### 🤖 Inteligência Artificial & Agentes Autônomos
 | Curso | Instituição | Carga Horária | Conclusão |
 |---|---|---|---|
-| Inteligência Artificial I – Redes Neurais Artificiais | IF Triângulo Mineiro | 40h | Jun/2026 |
+| Inteligência Artificial I – Redes Neurais Artificiais | IF Triângulo Mineiro (IFTM) | 40h | Jun/2026 |
 | Imersão Agentes de IA | Hashtag Treinamentos | 8h | Mai/2026 |
 | Imersão Agentes de IA | ONE / Alura | 2h | Jun/2026 |
+
+### 🚀 Extensão, Liderança & Gestão de Projetos
+| Curso | Instituição | Carga Horária | Conclusão |
+|---|---|---|---|
+| Gestão de Projetos de Software com PMBOK: Guia Essencial | IF Rio Grande do Sul (IFRS) | 40h | Ago/2026 |
+| DIO Campus Expert (16ª Turma) | Digital Innovation One (DIO) | 40h | Jul/2026 |
+
+### 🌐 Eventos Acadêmico-Científicos
+| Evento | Instituição / Evento | Carga Horária | Conclusão |
+|---|---|---|---|
+| Nikkey Network 2025 | Nikkey Network | 22h | Nov/2025 |
 
 ### ☕ Java & Lógica de Programação
 | Curso | Instituição | Carga Horária | Conclusão |
@@ -208,12 +219,12 @@ Para me manter atualizado e criar conteúdo relevante, consumo conhecimento de d
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
+
   <!-- Badges estáticos que sempre funcionam -->
-  <img src="https://img.shields.io/badge/Repositórios-6-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-6-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Seguidores-1-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Organização-CodAura-00BFFF?style=for-the-badge&logo=github" />
-  
+  <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-CodAura-00BFFF?style=for-the-badge&logo=github" />
+
 </div>
 
 ---
