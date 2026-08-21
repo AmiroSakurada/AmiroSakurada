@@ -219,9 +219,14 @@ Para me manter atualizado e criar conteúdo relevante, consumo conhecimento de d
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas & Contribuições
 
 <div align="center">
+
+  <!-- Animação do Gráfico de Contribuições estilo Pixel Game -->
+  <img src="https://raw.githubusercontent.com/AmiroSakurada/AmiroSakurada/output/github-contribution-grid-snake-dark.svg" alt="Gráfico Animado de Contribuições" width="100%" />
+
+  <br/><br/>
 
   <!-- Badges estáticos que sempre funcionam -->
   <img src="https://img.shields.io/badge/Reposit%C3%B3rios-6-blue?style=for-the-badge&logo=github" />
@@ -229,10 +234,6 @@ Para me manter atualizado e criar conteúdo relevante, consumo conhecimento de d
   <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-CodAura-00BFFF?style=for-the-badge&logo=github" />
 
 </div>
-
----
-
-> **🔧 Estou migrando minhas estatísticas para uma solução mais robusta. Em breve, gráficos dinâmicos estarão disponíveis aqui!**
 
 ---
 
