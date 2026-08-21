@@ -223,12 +223,12 @@ Para me manter atualizado e criar conteúdo relevante, consumo conhecimento de d
 
 <div align="center">
 
-  <!-- Animação do Gráfico de Contribuições estilo Pixel Game -->
-  <img src="https://raw.githubusercontent.com/AmiroSakurada/AmiroSakurada/output/github-contribution-grid-snake-dark.svg" alt="Gráfico Animado de Contribuições" width="100%" />
+  <!-- Animação da Nave Espacial (Galaga) Destruindo os Pixels de Contribuição -->
+  <img src="https://raw.githubusercontent.com/AmiroSakurada/AmiroSakurada/output/galaga-contribution-graph.svg" alt="Jogo da Nave Espacial - Contribuições" width="100%" />
 
   <br/><br/>
 
-  <!-- Badges estáticos que sempre funcionam -->
+  <!-- Badges estáticos -->
   <img src="https://img.shields.io/badge/Reposit%C3%B3rios-6-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Seguidores-1-blue?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-CodAura-00BFFF?style=for-the-badge&logo=github" />
